@@ -1,5 +1,4 @@
 # Finance-Tracker-Project
-Finance Tracker using Python
 Enhanced Personal Finance Tracker (GUI Implementation with Tkinter and OOP)
 
 Design Decisions
